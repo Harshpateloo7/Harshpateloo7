@@ -8,7 +8,7 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshpateloo7&" alt="Harshpateloo7" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshpateloo7&show_icons=true&layout=compact&theme=vue&langs_count=15)](https://github.com/Harshpateloo7)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshpateloo7&show_icons=true&layout=compact&theme=vue&langs_count=15)](https://github.com/Harshpateloo7) -->
 
 <!---
 Harshpateloo7/Harshpateloo7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
