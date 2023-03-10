@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML5,CSS,JavaScript,Python,JAVA
 - 💞️ I’m looking to collaborate on Web Designing projects
-- 📫 How to reach me patelharsh397@gmail.com
+- 📫 How to reach me patelharsh397@gmail.com or iharsh.patel92@gmail.com
 
 [![Harshpateloo7’s github stats](https://github-readme-stats.vercel.app/api?username=Harshpateloo7&show_icons=true&line_height=21&show_icons=true&theme=vue&count_private=true)](https://github.com/Harshpateloo7)
 
