@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshpateloo7
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML5,CSS,JavaScript,Python,JAVA
+- 👀 I’m interested in Web Development and Software Development
+- 🌱 Growing expertise in HTML5, CSS, Bootstrap, JavaScript, Node.js, React.js, Express.js, C#, ASP.NET, MVC architecture, PHP, Python, and JAVA.
 - 💞️ I’m looking to collaborate on Web Designing projects
 - 📫 How to reach me patelharsh397@gmail.com or iharsh.patel92@gmail.com
 
