@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Harshpateloo7
+- 👋 Hi, I'm Harsh 
+- [Harshadkumar Patel](https://github.com/Harshpateloo7/Harshpateloo7/assets/64983530/31d25fd9-13cd-4ef5-bc42-053bbf3bd8d9)
+
 - 👀 I’m interested in Web Development and Software Development
 - 🌱 Growing expertise in HTML5, CSS, Bootstrap, JavaScript, Node.js, React.js, Express.js, C#, ASP.NET, MVC architecture, PHP, Python, and JAVA.
 - 💞️ I’m looking to collaborate on Web Designing projects
